@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jairo+Oliveira+Santos;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<img src="coding.gif" style="border-radius: 150px;" alt="Imagem arredondada" width = "300px" height="300" align = "right">
+<img src = "coding.gif" width = "325px" align = "right">
 
 # Hi, welcome to my profile!
 ## Que bom te ver por aqui se puder me seguir Agradeço pela ajuda!
