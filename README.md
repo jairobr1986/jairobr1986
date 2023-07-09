@@ -1,12 +1,7 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1
-&height=120&section=header"/>
-<img src = "coding.gif" width = "325px" align = "right">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jairo+Oliveira+Santos;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jairobr1986&bg_color=0d1117&color=A9A9A9&line=3CB371&point=E0FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src = "coding.gif" width = "325px" align = "right">
 
 # Hi, welcome to my profile!
 ## Que bom te ver por aqui se puder me seguir Agradeço pela ajuda!
@@ -45,7 +40,11 @@
 
   ![Snake animation](https://github.com/Fe-grr/Fe-grr/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-profile-trophy.vercel.app/?username=jairobr1986&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jairobr1986&bg_color=0d1117&color=A9A9A9&line=3CB371&point=E0FFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=jairobr1986&theme=dark_lover" />
 </p>
 
 
