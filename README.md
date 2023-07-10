@@ -1,25 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jairo+Oliveira+Santos;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<style>
-    @keyframes animacao-circulo {
-        0% {
-            border-radius: 0;
-        }
-        50% {
-            border-radius: 50%;
-        }
-        100% {
-            border-radius: 0;
-        }
-    }
-    .imagem-circulo {
-        animation: animacao-circulo 3s linear infinite;
-    }
-</style>
-
-<img src="coding.gif" width="325px" align="right" class="imagem-circulo">
-
+<img src = "coding.gif" width = "325px" align = "right">
 
 # Hi, welcome to my profile!
 ## Que bom te ver por aqui se puder me seguir Agradeço pela ajuda!
