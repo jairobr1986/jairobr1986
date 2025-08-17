@@ -8,19 +8,22 @@
 <img src = "coding.gif" width = "325px" align = "center">
 </div>
 
-<div style="display: inline_block" ><br>
-
+<div style="display: inline_block" >
+<br>
 <hr>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+<div>
 <hr>
 <br>
 <img src = "dope-roblox.gif" width = "125px" align = "left">
 <img src = "linux-gnu.gif" width = "75px" align = "left">
 <img src = "windows11.gif" width = "135px" align = "left">
 <br>
+</div>
+
 
 
 <div align = "center">
