@@ -8,7 +8,7 @@
 <img src = "coding.gif" width = "325px" align = "center">
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" ><br>
 
 <hr>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -16,9 +16,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <hr>
-<img src = "dope-roblox.gif" width = "125px" align = "right">
-<img src = "linux-gnu.gif" width = "75px" align = "right">
-<img src = "windows11.gif" width = "135px" align = "right">
+<img src = "dope-roblox.gif" width = "125px" align = "center">
+<img src = "linux-gnu.gif" width = "75px" align = "center">
+<img src = "windows11.gif" width = "135px" align = "center">
 
 
 <br>
