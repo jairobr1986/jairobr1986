@@ -5,7 +5,7 @@
 
 <br>
 <div>
-<img src = "coding.gif" width = "325px" align = "right">
+<img src = "coding.gif" width = "325px" align = "center">
 </div>
 
 <div style="display: inline_block"><br>
