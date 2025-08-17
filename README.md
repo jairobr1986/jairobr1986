@@ -16,16 +16,19 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <hr>
+<br>
 <img src = "dope-roblox.gif" width = "125px" align = "left">
 <img src = "linux-gnu.gif" width = "75px" align = "left">
 <img src = "windows11.gif" width = "135px" align = "left">
-
 <br>
-<hr>
+
 
 <div align = "center">
+  <hr>
+  <br>
    <a href="https://www.linkedin.com/in/jairobr1986/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align = "center"></a> 
    <a href = "mailto:jairobr1986@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align = "center"></a>  
+  <br>
 </div>
 <div>
 
