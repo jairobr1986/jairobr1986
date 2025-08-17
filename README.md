@@ -16,9 +16,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <hr>
-<img src = "dope-roblox.gif" width = "125px" align = "justify">
-<img src = "linux-gnu.gif" width = "75px" align = "justify">
-<img src = "windows11.gif" width = "135px" align = "justify">
+<img src = "dope-roblox.gif" width = "125px" align = "left">
+<img src = "linux-gnu.gif" width = "75px" align = "left">
+<img src = "windows11.gif" width = "135px" align = "left">
 
 
 <br>
