@@ -20,12 +20,13 @@
 <img src = "linux-gnu.gif" width = "75px" align = "left">
 <img src = "windows11.gif" width = "135px" align = "left">
 
+<br>
 <hr>
 
-<br>
- <a href="https://www.linkedin.com/in/jairobr1986/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align = "center"></a> 
- <a href = "mailto:jairobr1986@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align = "center"></a>  
-
+<div align = "center">
+   <a href="https://www.linkedin.com/in/jairobr1986/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align = "center"></a> 
+   <a href = "mailto:jairobr1986@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align = "center"></a>  
+</div>
 <div>
 
  
