@@ -4,8 +4,9 @@
 ## Que bom te ver por aqui se puder me seguir Agradeço pela ajuda!
 
 <br>
+<div>
 <img src = "coding.gif" width = "325px" align = "right">
-
+</div>
 
 <div style="display: inline_block"><br>
 
